@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c5cd3fc-699c-4843-b729-2dc83b7fbdd0" name="Changes" comment="2nd file">
+      <change afterPath="$PROJECT_DIR$/src/ex_02012025/Lab_003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02012025/Lab_004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03012025/Lab_005.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex_01012025/Lab_002.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01012025/Lab_002.py" afterDir="false" />
     </list>
@@ -50,6 +53,9 @@
   "keyToString": {
     "Python.Lab_001.executor": "Run",
     "Python.Lab_002.executor": "Run",
+    "Python.Lab_003.executor": "Run",
+    "Python.Lab_004.executor": "Run",
+    "Python.Lab_005.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -86,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735830631097</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2nd file">
+      <option name="closed" value="true" />
+      <created>1735831614118</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735831614118</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
