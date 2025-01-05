@@ -16,3 +16,8 @@ dir2 = r'c:\Lakshmi\n.txt'
 print(dir)
 print(dir2)
 
+# Escape Seq - Single escape
+
+# print('Python is a 'Programming' Language') # Error
+print('Python is a\'Programming\' Language')
+print("Python is a'Programming' Language")

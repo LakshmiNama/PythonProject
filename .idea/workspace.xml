@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c5cd3fc-699c-4843-b729-2dc83b7fbdd0" name="Changes" comment="New files added">
-      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_009.py" afterDir="false" />
+    <list default="true" id="3c5cd3fc-699c-4843-b729-2dc83b7fbdd0" name="Changes" comment="Escape Sequence concept file added">
+      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_017.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05012025/Lab_009.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_009.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +65,14 @@
     "Python.Lab_007.executor": "Run",
     "Python.Lab_008.executor": "Run",
     "Python.Lab_009.executor": "Run",
+    "Python.Lab_010.executor": "Run",
+    "Python.Lab_011.executor": "Run",
+    "Python.Lab_012.executor": "Run",
+    "Python.Lab_013.executor": "Run",
+    "Python.Lab_014.executor": "Run",
+    "Python.Lab_015.executor": "Run",
+    "Python.Lab_016.executor": "Run",
+    "Python.Lab_017.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -117,13 +133,22 @@
       <option name="project" value="LOCAL" />
       <updated>1735891308569</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Escape Sequence concept file added">
+      <option name="closed" value="true" />
+      <created>1736056381647</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736056381647</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="push" />
     <MESSAGE value="2nd file" />
     <MESSAGE value="New files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="New files added" />
+    <MESSAGE value="Escape Sequence concept file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Escape Sequence concept file added" />
   </component>
 </project>
