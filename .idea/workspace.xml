@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c5cd3fc-699c-4843-b729-2dc83b7fbdd0" name="Changes" comment="Escape Sequence concept file added">
-      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_017.py" afterDir="false" />
+    <list default="true" id="3c5cd3fc-699c-4843-b729-2dc83b7fbdd0" name="Changes" comment="Operators and math functions">
+      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_023.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_05012025/Lab_009.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05012025/Lab_009.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,10 +70,44 @@
     "Python.Lab_015.executor": "Run",
     "Python.Lab_016.executor": "Run",
     "Python.Lab_017.executor": "Run",
+    "Python.Lab_018.executor": "Run",
+    "Python.Lab_019.executor": "Run",
+    "Python.Lab_020.executor": "Run",
+    "Python.Lab_021.executor": "Run",
+    "Python.Lab_022.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Lab_022" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05012025" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05012025/Lab_022.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab_022" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -141,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736056381647</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Operators and math functions">
+      <option name="closed" value="true" />
+      <created>1736063777251</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736063777281</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -149,6 +188,7 @@
     <MESSAGE value="2nd file" />
     <MESSAGE value="New files added" />
     <MESSAGE value="Escape Sequence concept file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Escape Sequence concept file added" />
+    <MESSAGE value="Operators and math functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operators and math functions" />
   </component>
 </project>
